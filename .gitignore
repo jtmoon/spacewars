@@ -1,0 +1,9 @@
+config
+node_modules
+sass
+src
+test
+tmpl
+*.coffee
+.sass-cache
+.DS_Store

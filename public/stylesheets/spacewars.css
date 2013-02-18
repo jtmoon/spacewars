@@ -1,0 +1,23 @@
+/* line 3, ../../sass/spacewars.scss */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* line 8, ../../sass/spacewars.scss */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 13, ../../sass/spacewars.scss */
+.container {
+  height: 100%;
+}
+
+/* line 18, ../../sass/spacewars.scss */
+.container .header,
+.container .content {
+  width: 1280px;
+  position: relative;
+}
